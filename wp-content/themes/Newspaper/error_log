@@ -1,0 +1,20 @@
+[04-Aug-2016 22:26:04 Asia/Hong_Kong] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[13-Aug-2016 08:15:45 Asia/Hong_Kong] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[05-Sep-2016 03:14:25 Asia/Hong_Kong] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[05-Sep-2016 03:23:21 Asia/Hong_Kong] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[17-Dec-2016 11:51:01 Asia/Hong_Kong] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[26-Dec-2016 19:14:13 Asia/Hong_Kong] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[07-Mar-2017 13:17:41 Asia/Hong_Kong] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[17-Mar-2017 23:34:10 UTC] PHP Fatal error:  Class 'td_global' not found in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/404.php on line 6
+[23-Mar-2017 21:39:48 UTC] PHP Fatal error:  Class 'td_global' not found in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/404.php on line 6
+[20-Apr-2017 08:21:41 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[20-Apr-2017 08:21:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[20-Apr-2017 08:21:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[20-Apr-2017 08:21:42 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[20-Apr-2017 08:21:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[20-Apr-2017 08:21:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[20-Apr-2017 08:21:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[20-Apr-2017 08:21:43 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[24-Apr-2017 12:57:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[05-May-2017 08:43:10 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6
+[16-May-2017 06:23:56 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/noblesse/public_html/noblesse/wp-content/themes/Newspaper/index.php on line 6

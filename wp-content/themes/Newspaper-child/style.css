@@ -1,0 +1,98 @@
+/*
+Theme Name:     Newspaper 6 Child theme
+Theme URI: 		http://themeforest.net/user/tagDiv/portfolio
+Description:    Child theme made by tagDiv
+Author:         tagDiv
+Author URI: 	http://themeforest.net/user/tagDiv/portfolio
+Template:       Newspaper                             
+Version:        6.0c
+*/
+
+
+/*  ----------------------------------------------------------------------------
+    This file will load automatically when the child theme is active. You can use it
+    for custom CSS.
+*/
+.td-footer-wrapper>.td-container>.td-pb-row>.td-pb-span12>.sfmsb_widget>.sfmsb-follow-social-buttons {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    display: table;
+}    
+img.td-retina-data {
+    display: none;
+}
+.mc4wp-form-fields {
+    width: 40%;
+    margin: auto;
+    max-width: 420px;
+    min-width: 300px;
+}
+input[value="Subscribe"] {
+    margin: auto;
+    float: none;
+    text-align: center;
+    display: block;
+    background: #a9a9a9;
+    color: white;
+}
+div.td-footer-info{
+    margin-bottom: 0px;
+}
+aside.widget.widget_text {
+    margin-bottom: 0px;
+}
+.td-pb-span12>.widget_text>.block-title {
+    text-align: center;
+    margin-bottom: 10px;
+}
+.mc4wp-alert {
+    text-align: center;
+}
+.footer-logo-wrap{
+    display: none;
+}
+@media (max-width: 767px){
+    a.learn-more {display: block;}
+    .footer-icon-img> .wpb_column.vc_column_container.td-pb-span2 {width: 33%;display: inline-block;}
+}
+@media (min-width: 767px){
+img.td-retina-data.td-logo {max-height: 160px;}
+}
+.sfmsb-square:before {
+    background: #5F5E5E!important;
+}
+.sfmsb-square {
+    color: white !important;
+}
+.td-post-author-name {
+    display: none;
+}
+.author-box-wrap {
+    display: none;
+}
+.td-mobile-content .menu-new-main-menu-container, .td-mobile-content .menu-new-main-menu-container li>a{
+    font-family: arial;
+}
+.menu-item-language-current {
+    display: none;
+}
+.td-page-header {
+    display: none;
+}
+.td-footer-wrapper .widget .block-title {
+    text-align: center;
+    margin-bottom: 0px;
+} 
+
+#mc4wp-form-1 input[type="submit"] {
+    background: #fff;
+    color: #ffffff;
+    border: 1px solid #a9a9a9;
+    margin: 0 5px;
+}
+
+#mc4wp-form-1 input[type="submit"]:hover {
+    background: #969696;
+    color: #fff;
+}#mc4wp-form-1 table td {    border: none;}#mc4wp-form-1 input[value="Subscribe"]{	text-transform: uppercase;	background-color: #a9a9a9;}.sfmsb-square:before {    background: #FFF !important;    color: #a9a9a9;}

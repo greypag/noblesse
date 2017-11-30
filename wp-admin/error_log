@@ -1,0 +1,5 @@
+[06-Feb-2017 07:59:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/noblesse/public_html/noblesse/wp-content/plugins/sitepress-multilingual-cms/sitepress.class.php on line 1399
+[06-Feb-2017 07:59:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/noblesse/public_html/noblesse/wp-content/plugins/sitepress-multilingual-cms/sitepress.class.php:1399) in /home/noblesse/public_html/noblesse/wp-includes/pluggable.php on line 1167
+[25-Feb-2017 04:52:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=953962 in /home/noblesse/public_html/noblesse/wp-includes/wp-db.php on line 1811
+[28-Feb-2017 05:16:54 UTC] PHP Fatal error:  Call to undefined function apply_filters() in /home/noblesse/public_html/noblesse/wp-includes/load.php on line 199
+[28-Feb-2017 05:17:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=323327 in /home/noblesse/public_html/noblesse/wp-includes/wp-db.php on line 1811

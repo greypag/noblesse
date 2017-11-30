@@ -1,0 +1,1 @@
+[10-Mar-2017 22:24:08 UTC] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/noblesse/public_html/noblesse/wp-includes/rss-functions.php on line 8
